@@ -1,0 +1,60 @@
+th{
+    background-color: lightgray;
+}
+
+table, th, td{
+    border: 2px black solid;
+}
+
+th, td{
+    padding: 10px;
+}
+
+table{
+    margin: 100px;
+}
+
+.img1, .img2, .img3 {
+    height: 150px;
+    width: 150px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red;
+    padding: 30px;
+}
+
+.img1{
+    height: 25%;
+    width: 25%;
+}
+
+.img2{
+height: 150pt;
+width: 300pt;
+}
+
+.img3{
+    height: 2in;
+    width: 4in;
+
+}
+
+.parag{
+    text-align: center;
+    text-decoration: underline;
+    transform:uppercase;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.google:hover{
+    color: red;
+}
+
+.youtube:active{
+    color:gray ;
+}
+
+.spotify:{
+    color: orange;
+}
